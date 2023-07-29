@@ -38,7 +38,7 @@ namespace Project
 	class Jo
 	{
         public string WeedBrands { get; set; }
-	public string WeedName { get; set; }
+		public string WeedName { get; set; }
         public string WeedType { get; set; }
     }
 }
